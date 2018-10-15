@@ -11,4 +11,5 @@ Future implementation ideas:
 - The method using the TCP protocol should get the data from different server instances and cross-check the data for validity
 - The RMI servers should return objects or proper and structured data for client consumption
 - The RMI servers should use a cache database instead of in-memory hashmaps
+- Dynamic invocation possibility. What if the client needs to use a new method or RMI server instance?
 - ...
