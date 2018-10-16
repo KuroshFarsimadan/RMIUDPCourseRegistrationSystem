@@ -12,4 +12,5 @@ Future implementation ideas:
 - The RMI servers should return objects or proper and structured data for client consumption
 - The RMI servers should use a cache database instead of in-memory hashmaps
 - Dynamic invocation possibility. What if the client needs to use a new method or RMI server instance?
+- Fix the threading / thread / concurrency synchronization
 - ...
