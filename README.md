@@ -1,6 +1,7 @@
 # RMIUDPCourseRegistrationSystem
 
-A small project for RMI + UDP testing purposes. 
+A small project for RMI + UDP testing purposes. (This project has deliberate synchronization problem. Check V2 for a proper thread
+management)
 
 Below I will try to update and cover the future implementation ideas, which were not stated in the design
 document and I will try to constantly update this section.
